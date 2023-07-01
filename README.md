@@ -2,6 +2,7 @@
 ## Tiny compiler ( Lexical analysis + Syntax Analyzer) implemented in a user-friendly GUI 
 A QT-based project that serves in creating a tiny compiler that receives a percept of sentences, break them down into tokens according to tiny language grammar, and performs syntax analysis on each group of tokens to validate its integrity.
 
+Ability to detect comments, and errors; and evaluate their root cause: 
 ![image](https://github.com/Chady00/TinyCompiler/assets/84717550/e6a1c04b-afe2-4630-a033-6d3e18346a68)
 
 The user is allowed to load samples | Enter sample manually by typing in the QTTextBox :
