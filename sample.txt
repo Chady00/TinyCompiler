@@ -1,0 +1,15 @@
+read x; 
+
+if  x  < 0  then
+
+repeat
+
+y:=z+1;
+
+z:=z*2
+
+until z = 20;
+
+write  y
+
+end 
