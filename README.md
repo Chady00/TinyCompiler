@@ -8,8 +8,6 @@ The user is allowed to load samples | Enter sample manually by typing in the QTT
 ![image](https://github.com/Chady00/TinyCompiler/assets/84717550/b16405c2-c449-4bac-ab95-f7dcaebb39b3)
 The compiler utilized in this implementation possesses advanced capabilities, akin to leading compilers employed globally, which allow it to not only identify but also display the generated errors. This feature enables developers to promptly detect and rectify any coding issues or inconsistencies. The compiler emulates the behavior of renowned compilers extensively utilized in the industry, ensuring compatibility and facilitating a smooth development process:
 
-(https://github.com/Chady00/TinyCompiler/assets/84717550/055d26bb-fdcd-406a-b217-bf504bfdf8c4)
-
 ![image](https://github.com/Chady00/TinyCompiler/assets/84717550/af84d66f-6d07-4d7b-99e7-d051f7376362)
 
 Sample 1 : 
